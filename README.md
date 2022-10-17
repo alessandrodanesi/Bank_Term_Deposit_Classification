@@ -15,4 +15,5 @@ The notebook is structured as follows:
 4. Models
 5. SMOTE
 6. Final Remarks
+
 Please, follow step by step the notebook for all details.
